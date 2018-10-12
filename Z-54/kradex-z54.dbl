@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.1.3">
+<eagle version="9.2.0">
 <designblock>
 <description>&lt;b&gt;Kradex Z54 project box&lt;/b&gt;
 &lt;br&gt;&lt;br&gt;Height: 41 mm
@@ -69,7 +69,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
@@ -139,14 +139,14 @@
 <wire x1="-36.7" y1="22" x2="-36.7" y2="-19" width="0.15" layer="20"/>
 <hole x="-24.29" y="0.89" drill="3.9"/>
 <hole x="31.61" y="6.8" drill="3.9"/>
-<dimension x1="44" y1="29" x2="44" y2="-12" x3="53" y3="8.5" textsize="1.778" layer="48" dtype="vertical"/>
-<dimension x1="44" y1="29" x2="-36.7" y2="22" x3="3.65" y3="50" textsize="1.778" layer="48" dtype="horizontal"/>
-<dimension x1="31.61" y1="6.8" x2="44" y2="6.8" x3="37.805" y3="6.8" textsize="1.778" layer="48"/>
-<dimension x1="-24.29" y1="0.89" x2="-36.7" y2="0.89" x3="-30.495" y3="0.99475625" textsize="1.778" layer="48"/>
-<dimension x1="35" y1="36.8" x2="-27.6" y2="36.8" x3="3.7" y3="45" textsize="1.778" layer="48" dtype="vertical"/>
-<dimension x1="35" y1="36.8" x2="35" y2="-27.4" x3="59" y3="4.7" textsize="1.778" layer="48" dtype="vertical"/>
-<dimension x1="-24.29" y1="0.89" x2="-24.3" y2="-27.3" x3="-24.295" y3="-13.204996875" textsize="1.778" layer="48"/>
-<dimension x1="31.61" y1="6.8" x2="31.61" y2="-27.3" x3="31.704796875" y3="-10.25" textsize="1.778" layer="48"/>
+<dimension x1="44" y1="29" x2="44" y2="-12" x3="53" y3="8.5" textsize="1.778" layer="47" dtype="vertical"/>
+<dimension x1="44" y1="29" x2="-36.7" y2="22" x3="3.65" y3="50" textsize="1.778" layer="47" dtype="horizontal"/>
+<dimension x1="31.61" y1="6.8" x2="44" y2="6.8" x3="37.805" y3="6.8" textsize="1.778" layer="47"/>
+<dimension x1="-24.29" y1="0.89" x2="-36.7" y2="0.89" x3="-30.495" y3="0.99475625" textsize="1.778" layer="47"/>
+<dimension x1="35" y1="36.8" x2="-27.6" y2="36.8" x3="3.7" y3="45" textsize="1.778" layer="47" dtype="vertical"/>
+<dimension x1="35" y1="36.8" x2="35" y2="-27.4" x3="59" y3="4.7" textsize="1.778" layer="47" dtype="vertical"/>
+<dimension x1="-24.29" y1="0.89" x2="-24.3" y2="-27.3" x3="-24.295" y3="-13.204996875" textsize="1.778" layer="47"/>
+<dimension x1="31.61" y1="6.8" x2="31.61" y2="-27.3" x3="31.704796875" y3="-10.25" textsize="1.778" layer="47"/>
 </plain>
 <libraries>
 </libraries>
